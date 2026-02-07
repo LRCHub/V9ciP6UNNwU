@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "それでも僕らの呼吸は止まない",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T07:14:40.096047Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それでも僕らの呼吸は止まない",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_それでも僕らの呼吸は止まない_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それでも僕らの呼吸は止まない",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_それでも僕らの呼吸は止まない_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それでも僕らの呼吸は止まない",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_それでも僕らの呼吸は止まない_キタニタツヤ.txt"
+    }
+  ]
+}
